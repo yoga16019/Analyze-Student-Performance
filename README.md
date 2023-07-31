@@ -1,2 +1,2 @@
 # Analyze-Student-Performance
-I  with Joshua (https://www.linkedin.com/in/joshua-febrian-302a70233/)  analyzed the factors that affecting student graduation and built machine learning model that predict whether students graduate on time.
+I, along with Joshua (https://www.linkedin.com/in/joshua-febrian-302a70233/), participated in the ISFEST 2022 Data Competition. We analyzed the factors affecting student graduation and built a machine learning model to predict whether students will graduate on time. This repository contains important files such as the code file and the full report
